@@ -1,2 +1,3 @@
 # BIX.coin
-Разработан на примере (trc777token_contract)
+Разработано на основе (trc777token_contract)
+Своя_монета.
